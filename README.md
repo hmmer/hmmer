@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hmmer
 - 👀 I’m interested in dont net, angular
-- 🌱 I’m currently learning on oracle
+- 🌱 I’m currently learning on azure
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me nr.vinodsharma@gmail.com
 
